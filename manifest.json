@@ -6,7 +6,7 @@
     "start_url": ".",
     "display": "standalone",
     "ms_start_compatible": true,
-    "publisher": "Fojiphoto", // Add your correct publisher name here
+    "publisher": "Fojiphoto",
     "icons": [
         {
             "src": "icon-512x512.png",
