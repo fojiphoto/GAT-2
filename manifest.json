@@ -6,19 +6,17 @@
     "start_url": ".",
     "display": "standalone",
     "ms_start_compatible": true,
-    "publisher": "Fojiphoto",
+    "publisher": "Fojiphoto", // Add your correct publisher name here
     "icons": [
-        {
-            "src": "icon-1024x1024.png",
-            "sizes": "1024x1024",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
         {
             "src": "icon-512x512.png",
             "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
+            "type": "image/png"
+        },
+        {
+            "src": "icon-1920x1080.png",
+            "sizes": "1920x1080",
+            "type": "image/png"
         }
     ]
 }
