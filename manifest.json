@@ -1,0 +1,18 @@
+{
+    "name": "Fojiphoto.GuessTheQuiz",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "short_name": "Guess The Quiz",
+    "start_url": ".",
+    "display": "standalone",
+    "ms_start_compatible": true,
+    "publisher": "Fojiphoto", // Add your correct publisher name here
+    "icons": [
+        {
+            "src": "icon-512x512.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
